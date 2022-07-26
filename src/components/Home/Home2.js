@@ -13,6 +13,7 @@ function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
+        {/*
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
@@ -58,6 +59,7 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
+        */}
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
@@ -67,7 +69,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/ripeliz"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +79,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/ripeliz"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/elizabeth-choy/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +99,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/ripeliz/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
