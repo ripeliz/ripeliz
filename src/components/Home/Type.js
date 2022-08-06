@@ -7,8 +7,8 @@ function Type() {
       options={{
         strings: [
           
-          "diamond valorant player",
-          "something else",
+          "junior cs major",
+          "cat enjoyer",
 
         ],
         autoStart: true,
