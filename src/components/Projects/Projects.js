@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="Edufy"
               description="Interactive quiz website aimed to gameify online learning for younger students."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/lach9859/EdufyClient"
               demoLink="/home"
             />
           </Col>
